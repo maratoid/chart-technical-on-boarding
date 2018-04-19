@@ -1,0 +1,14 @@
+.DS_Store
+
+.github
+.gitignore
+.gitlab-ci.yml
+CODEOWNERS
+LICENSE
+README.md
+
+Dockerfile
+Makefile.docker
+README.md
+.env
+.vscode
